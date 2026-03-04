@@ -1,0 +1,16 @@
+OrderID,CustomerID,CustomerName,Email,Product,Category,Quantity,Price,PaymentMethod,PurchaseDate,Country
+1001,C001,John Smith,john.smith@email.com,Wireless Mouse,Electronics,2,25.99,Credit Card,2024-01-05,USA
+1002,C002,Sarah Johnson,sarah.j@email.com,Running Shoes,Fashion,1,79.99,PayPal,2024-01-06,Canada
+1003,C003,Michael Brown,michael.b@email.com,Bluetooth Speaker,Electronics,1,49.99,Debit Card,2024-01-07,UK
+1004,C004,Emily Davis,emily.d@email.com,Coffee Maker,Home Appliances,1,89.99,Credit Card,2024-01-08,Australia
+1005,C005,David Wilson,david.w@email.com,Desk Chair,Furniture,1,129.99,Net Banking,2024-01-09,USA
+1006,C006,Olivia Martinez,olivia.m@email.com,Smartphone,Electronics,1,699.99,Credit Card,2024-01-10,India
+1007,C007,James Anderson,james.a@email.com,Backpack,Fashion,3,39.99,PayPal,2024-01-11,Germany
+1008,C008,Sophia Thomas,sophia.t@email.com,Wrist Watch,Accessories,2,149.99,Debit Card,2024-01-12,USA
+1009,C009,Daniel Taylor,daniel.t@email.com,Laptop,Electronics,1,999.99,Credit Card,2024-01-13,Canada
+1010,C010,Isabella Moore,isabella.m@email.com,Air Fryer,Home Appliances,1,119.99,UPI,2024-01-14,India
+1011,C011,William Jackson,william.j@email.com,Notebook,Stationery,5,4.99,Cash on Delivery,2024-01-15,UK
+1012,C012,Ava White,ava.w@email.com,Tablet,Electronics,1,399.99,Credit Card,2024-01-16,USA
+1013,C013,Ethan Harris,ethan.h@email.com,Sunglasses,Accessories,2,59.99,PayPal,2024-01-17,Australia
+1014,C014,Mia Martin,mia.m@email.com,Office Desk,Furniture,1,249.99,Debit Card,2024-01-18,Germany
+1015,C015,Alexander Thompson,alex.t@email.com,Headphones,Electronics,2,89.99,Credit Card,2024-01-19,India
